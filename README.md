@@ -1,8 +1,8 @@
 # MYCOMM Digital Acquisition Strategy
 
-![](visuals/7.png)
-
 Digital marketing strategy case study for **MYCOMM**, a sports-event travel agency offering all-inclusive packages for major international events.
+
+![](visuals/7.png)
 
 **Goal:**
 Develop a scalable **digital acquisition strategy** to increase visibility, qualified traffic, and online conversions.
