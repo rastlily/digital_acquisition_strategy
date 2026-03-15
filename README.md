@@ -16,36 +16,22 @@ Develop a scalable **digital acquisition strategy** to increase visibility, qual
 - Social media acquisition concepts  
 - KPI framework for performance tracking  
 
-**Outcome:**
-A structured acquisition framework combining **SEO growth, paid search campaigns, and persona-driven targeting** to support MYCOMM’s expansion in the sports travel market. 
+**Outcome:** A structured acquisition framework combining **SEO growth, paid search campaigns, and persona-driven targeting** to support MYCOMM’s expansion in the sports travel market. 
 
 **Campaign Concepts:**
 
 Example social media creatives designed to illustrate the proposed campaign strategy.
 
-<div style="display: flex; gap: 10px; margin-bottom: 20px;">
-  <div style="text-align: center;">
-    <strong>IG – Tennis 1</strong><br>
-    <img src="visuals/5.png" width="250">
-  </div>
-  <div style="text-align: center;">
-    <strong>IG – Tennis 2</strong><br>
-    <img src="visuals/6.png" width="250">
-  </div>
-</div>
+| IG – Tennis 1 | IG – Tennis 2 |
+|---------------|---------------|
+| ![](visuals/5.png) | ![](visuals/6.png) |
 
-<div style="display: flex; gap: 10px;">
-  <div style="text-align: center;">
-    <strong>FB – Rugby 1</strong><br>
-    <img src="visuals/3.png" width="250">
-  </div>
-  <div style="text-align: center;">
-    <strong>FB – Rugby 2</strong><br>
-    <img src="visuals/4.png" width="250">
-  </div>
-</div>
-**Project Assets:**
 
+| FB – Rugby 1 | FB – Rugby 2 |
+|-------------|-------------|
+| ![](visuals/3.png) | ![](visuals/4.png) |
+
+**Project Assets:** 
 - [Strategy Report (PDF)](report.pdf)  
 - [Executive Presentation (Slides)](presentation.pdf)  
 
