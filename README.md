@@ -23,16 +23,16 @@ A structured acquisition framework combining **SEO growth, paid search campaigns
 
 Example social media creatives designed to illustrate the proposed campaign strategy.
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; align-items: flex-start; gap: 10px;">
 
-  <div>
+  <div style="text-align: center;">
     <strong>IG – Tennis</strong><br>
-    <img src="visuals/5.png" width="300">
+    <img src="visuals/5.png" width="200">
   </div>
 
-  <div>
+  <div style="text-align: center;">
     <strong>FB – Rugby</strong><br>
-    <img src="visuals/3.png" width="300">
+    <img src="visuals/3.png" width="200">
   </div>
 
 </div>
